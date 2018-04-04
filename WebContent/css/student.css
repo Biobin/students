@@ -1,0 +1,53 @@
+.logo {
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+	float:left;
+	color:#fff;
+	padding-left: 50px;
+}
+
+.logout {
+	float:right;
+	font-size:18px;
+	padding:30px 15px 0 0;
+	color:#fff;
+	}
+
+#fm {
+	margin: 0;
+	padding: 10px 20px;
+}
+
+#fm2stuScore {
+	margin: 0;
+	padding: 10px 30px;
+}
+
+.ftitle {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.ftitle2stuInfo {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.fitem {
+	margin-bottom: 5px;
+}
+
+.fitem label {
+	display: inline-block;
+	width: 80px;
+}
